@@ -1,0 +1,24 @@
+{
+  "name": "xxjz",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node node_modules/react-native/local-cli/cli.js start"
+  },
+  "dependencies": {
+    "lodash": "^3.10.1",
+    "moment": "^2.11.2",
+    "normalizr": "^1.3.1",
+    "react": "^0.14.0",
+    "react-native": "^0.21.0",
+    "react-native-scrollable-tab-view": "^0.3.5",
+    "react-native-vector-icons": "^1.2.0",
+    "react-redux": "^3.1.0",
+    "redux": "^3.0.3",
+    "redux-logger": "^2.0.4",
+    "redux-thunk": "^1.0.0"
+  },
+  "devDependencies": {
+    "remote-redux-devtools": "^0.1.2"
+  }
+}
